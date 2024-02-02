@@ -1,0 +1,1 @@
+Hi, this is Johir Suresh, a PhD student at Clemson University. This repo is being created for my course AuE8280: Autonomy Science and Systems in Spring 2024. This will contain course projects, assignments and lab material. We learn to use ROS, Python and Git to run robots.
