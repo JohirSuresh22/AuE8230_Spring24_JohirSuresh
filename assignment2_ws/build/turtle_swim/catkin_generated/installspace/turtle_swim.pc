@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Science_and_systems_Class/AuE8230_Spring24_JohirSuresh/assignment2_ws/install
+
+Name: turtle_swim
+Description: Description of turtle_swim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
